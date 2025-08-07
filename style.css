@@ -309,4 +309,7 @@ footer {
   .footer-item {
     align-items: center;
   }
+  .btn-red {
+    margin-top: 8px;
+  }
 }
