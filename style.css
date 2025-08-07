@@ -283,6 +283,15 @@ footer {
   .hero-buttons {
     flex-direction: column;
   }
+  .hero-buttons input {
+    padding: 10px 10px 10px 10px;
+    font-size: 10px;
+    width: 160px;
+  }
+  .hero-buttons .btn-red {
+    font-size: 14px;
+    padding: 8px 16px;
+  }
   .footer {
     display: grid;
     grid-template-columns: 1fr 1fr;
